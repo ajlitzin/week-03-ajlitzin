@@ -1,0 +1,7 @@
+Hi- this is just a simple program that uses highline to find out if you want
+to see some Futurama quotes, and prints some if you do.  to run either
+rake highline
+ - or-
+ ruby lib/highline.rb
+
+ enjoy!
